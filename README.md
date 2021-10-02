@@ -16,7 +16,7 @@ Este projeto tem o intuito de melhorar as minhas habilidades em programação, d
 Realmente professores excelentes com uma didatica fenomenal 💜 
 
 ## 🔖 Layout
-Irei hospedar o projeto no github futuramente, keep looking for further news :D
+Acessa o site: https://gustavodev1998.github.io/OriginSix-RocketSeat/
 
 ## :memo: Licença
 
